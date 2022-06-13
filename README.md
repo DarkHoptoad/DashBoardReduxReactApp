@@ -1,1 +1,2 @@
-[Demo] ( https://darkhoptoad.github.io/DashBoardReduxReactApp/)
+Demo:  
+https://darkhoptoad.github.io/DashBoardReduxReactApp/
