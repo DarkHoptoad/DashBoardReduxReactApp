@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DashBoardReduxReactApp/static/css/main.4dc79ef7.css",
+    "main.js": "/DashBoardReduxReactApp/static/js/main.72d28d08.js",
+    "static/media/bg-header-desktop.svg": "/DashBoardReduxReactApp/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/DashBoardReduxReactApp/index.html",
+    "static/media/bg-header-mobile.svg": "/DashBoardReduxReactApp/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/DashBoardReduxReactApp/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.4dc79ef7.css.map": "/DashBoardReduxReactApp/static/css/main.4dc79ef7.css.map",
+    "main.72d28d08.js.map": "/DashBoardReduxReactApp/static/js/main.72d28d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc79ef7.css",
+    "static/js/main.72d28d08.js"
+  ]
+}
